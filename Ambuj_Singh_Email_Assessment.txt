@@ -1,0 +1,42 @@
+Email Assessment
+
+Subject: Update on Dashboard Automation Project - Impact of Recent Changes and Way Forward  
+Dear Alan,
+This email is to provide a brief update on the Dashboard Automation project and to seek your input on how we can collectively move forward given the recent changes.
+Over the last three weeks, your team has provided several valuable updates to the solution, including:
+- Data calculation logic
+- Report layout and structure
+- Visualization formats (charts, KPIs, and filters)
+- Approval workflows
+
+While these changes enhance the solution's usability and alignment with business requirements, they also bring upon additional development effort and impact our current delivery plan.
+Impact of Requirement Changes are as follows:
+- Development effort has increased by approximately 35% compared to the originally signed?off scope.  
+- As a result, system testing has been delayed by 5 working days, with the current testing phase starting later than planned.  
+- The originally planned go?live date of 20 June is now at risk, and we may need to adjust this timeline unless scope or priorities are refined.
+
+Some of the new requirements also conflict with previously approved design decisions, which means we are currently balancing between maintaining previous assignments and incorporating the latest enhancements.
+To ensure we deliver a robust and high?quality solution, we propose the following options:
+1. Adjust the timeline
+   - Adjust the go?live date to 10th July to accommodate the additional development and testing.  
+   - Commit to all the new customizations and enhancements.  
+
+2. Freeze and prioritize scope  
+   - Freeze the requirements as of a specific date moving forward.  
+   - Implement the highest?priority changes for the 20th June go?live, and hold lower?priority items to a later release.  
+
+3. Proceed with current scope at original date
+   - Attempt to meet the 20th June go?live, with the understanding that:  
+     - Some features may be implemented in a minimally viable form, and  
+     - The risk of post?go?live defects and rework will be higher.
+
+To help us plan accordingly and commit to a realistic path, we kindly request your formal feedback on the following by Tuesday, 16th June 2026.
+We remain fully committed to delivering a dashboard that meets your business needs and are happy to discuss any of these options in a short call or meeting at your convenience.
+
+Thank you for your continued collaboration and support.
+
+Best Regards,
+Ambuj Singh
+Project Development Lead
+XYZ Solutions Pvt Ltd
+ambuj@xyz.com
